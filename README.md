@@ -1,0 +1,3 @@
+This is a final project I created for my Syracuse University graduate class IST659 - Database Administration Concepts and Database Management. It was created in PHP with a MySQL backend.
+
+The course simply required to create queries and reports with users in a basic database such as Access. I used this opportunity to go beyond and create a database system with a web interface using PHP to also puruse web development skills. 
